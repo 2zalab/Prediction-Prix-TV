@@ -34,6 +34,7 @@ Ce tableau comprend 20 modèles de téléviseurs avec leurs caractéristiques co
 5.	Générer la matrice de confusion du modèle de classification construit
 6.	Imprimer les rapports de la classification puis évaluer la performance du modèle utilisé.
 7.	Utiliser votre modèle pour prédire le prix des TV ci-dessous
+   
 |   Modèle TV      | Taille | Poids | Résolution |
 |------------------|--------|-------|------------|
 |   TV 21          |  58''  | 22 kg |   3840     |
