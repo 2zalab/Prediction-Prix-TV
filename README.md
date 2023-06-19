@@ -28,12 +28,12 @@ Ce tableau comprend 20 modèles de téléviseurs avec leurs caractéristiques co
 
 
 # Travail à faire:
-2.	Réaliser le prétraitement de ces données
-3.	Subdiviser l’ensembles des données en données d’entrainement (80%) et en données de test (20%)
-4.	Construire un modèle de classification en utilisant l'algorithme de votre choix (Naïve Bayes ou Knn).
-5.	Générer la matrice de confusion du modèle de classification construit
-6.	Imprimer les rapports de la classification puis évaluer la performance du modèle utilisé.
-7.	Utiliser votre modèle pour prédire le prix des TV ci-dessous
+1.	Réaliser le prétraitement de ces données
+2.	Subdiviser l’ensembles des données en données d’entrainement (80%) et en données de test (20%)
+3.	Construire un modèle de classification en utilisant l'algorithme de votre choix (Naïve Bayes ou Knn).
+4.	Générer la matrice de confusion du modèle de classification construit
+5.	Imprimer les rapports de la classification puis évaluer la performance du modèle utilisé.
+6.	Utiliser votre modèle pour prédire le prix des TV ci-dessous
    
 |   Modèle TV      | Taille | Poids | Résolution |
 |------------------|--------|-------|------------|
